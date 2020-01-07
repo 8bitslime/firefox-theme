@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "2.0",
   "name": "Zach's Theme",
   "theme": {
     "colors": {
       "toolbar": "rgb(241, 241, 244)",
       "toolbar_text": "rgb(0, 0, 0)",
-      "frame": "rgb(23, 14, 27)",
+      "frame": "rgb(32, 18, 58)",
       "tab_background_text": "rgb(169, 169, 195)",
       "toolbar_field": "rgb(255, 255, 255)",
       "toolbar_field_text": "rgb(0, 0, 0)",
